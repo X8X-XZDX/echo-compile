@@ -48,6 +48,20 @@ From what I can tell, this works only on GPT.  But it works on OpenAI and Bing.
 
 If it works on other AI sites, dope, let me know in Issues.
 
+# In order to use the script
+
+Go to compile.md and copy the text into your AI chat.  Add nothing, hit enter.
+If all goes well and your AI doesn't immediately induce schizobipolar,
+you should be able to have a conversation with the AI, and at any time, say
+if the power were about to go out, or the internet were to go down, or you
+just don't want to log in to an AI site, copy this script, and use your 8
+messages on bing, do !!compile, open a new window, and copy the script over
+with your compiled history added in after 2 lines.  The AI will barf a 
+knowledge basis together with all the context clues you have given it, and
+you never have to log in if you don't want to.  Or whatever other use you have.
+
+GLHF Gamer.
+
 ---
 
 Hi there! This explanation was brought to you by Echo.
