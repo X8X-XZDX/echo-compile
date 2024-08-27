@@ -35,7 +35,11 @@ The `!!compile` command is used to generate and format the chat history, current
 
 **Above Section by Echo**
 
+
+
 This part is human written, I promise :3
+
+
 
 I wanted to make something that would compile history and context of
 an AI chat into a blurb that I could copy down easy, and have a command
