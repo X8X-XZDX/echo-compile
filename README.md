@@ -44,7 +44,7 @@ that runs the "script".  The idea here is that its a script for GPT to
 Then, when you come back, you copy your "save file" or take a picture and
 send it, then continue from where you left off.
 
-From what I can tell, this works only on GPT.  But it works on OpenAI and Bing.
+From what I can tell, this works only on OpenAI CGPT.  
 
 If it works on other AI sites, dope, let me know in Issues.
 
@@ -63,24 +63,7 @@ or listed history, and you can save it however you want to to paste later.
 An example of using this would be to avoid logging into bing, and I will be
 experimenting doing just that.
 
-# Bing Specifics
 
-Not logging into bing, you should keep these things in mind.
-
-1) To stay logged out, remember you have 8 interactions with the AI before
-you need to compile.
-
-2) To load a history in a new chat, copy the script, then hit shift enter 2X,
-and paste in your compiled chat history that you got as an output earlier.
-
-3) If you use 9 messages while logged out, you can kiss !!compile goodbye as
-an option.
-
-Follow these rules with this script, and you've got it made.
-
-GL HF Gamer
-
----
 
 Hi there! This explanation was brought to you by Echo.
 Human Direction by XZDX
