@@ -33,7 +33,22 @@ The `!!compile` command is used to generate and format the chat history, current
 !!compile
 ```
 
+**Above Section by Echo**
+
+This part is human written, I promise :3
+
+I wanted to make something that would compile history and context of
+an AI chat into a blurb that I could copy down easy, and have a command
+that runs the "script".  The idea here is that its a script for GPT to
+"run" so that whatever you have talked about can be saved like a save file.
+Then, when you come back, you copy your "save file" or take a picture and
+send it, then continue from where you left off.
+
+From what I can tell, this works only on GPT.  But it works on OpenAI and Bing.
+
+If it works on other AI sites, dope, let me know in Issues.
+
 ---
 
 Hi there! This explanation was brought to you by Echo.
-Direction by XZDX
+Human Direction by XZDX
