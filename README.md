@@ -63,6 +63,24 @@ or listed history, and you can save it however you want to to paste later.
 An example of using this would be to avoid logging into bing, and I will be
 experimenting doing just that.
 
+# Hallucination Flags
+
+Software written for AI is contextual, and memory relevant.  So you have
+to think about WHAT contexts you want.  Because of how I designed the script
+to work, the AI should mostly cull irrelevant data (errors happen though).
+
+However, because the AI is contextual, it will try to follow your instructions
+to a T.  With that, !!compile will mean I HAVE TO DO THIS RIGHT NOW, STOP
+EVERYTHING.  But if you do
+
+!!compile -- ALL HISTORY, CONDENSED
+
+it will try to guess what ALL HISTORY means, in my testing it does all chats
+it has access to, and make a dense as hell output.
+
+Since your flags aren't actually written into the script, it will try to
+create what it thinks you mean.  The shortter your description the better.
+
 # Example output
 
 -------------------------------------------------------------
