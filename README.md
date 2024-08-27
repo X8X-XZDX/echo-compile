@@ -50,17 +50,35 @@ If it works on other AI sites, dope, let me know in Issues.
 
 # In order to use the script
 
-Go to compile.md and copy the text into your AI chat.  Add nothing, hit enter.
-If all goes well and your AI doesn't immediately induce schizobipolar,
-you should be able to have a conversation with the AI, and at any time, say
-if the power were about to go out, or the internet were to go down, or you
-just don't want to log in to an AI site, copy this script, and use your 8
-messages on bing, do !!compile, open a new window, and copy the script over
-with your compiled history added in after 2 lines.  The AI will barf a 
-knowledge basis together with all the context clues you have given it, and
-you never have to log in if you don't want to.  Or whatever other use you have.
+Go to compile.md and copy the text into your AI chat.  
 
-GLHF Gamer.
+Add nothing, hit enter.  This will load the script into AI memory.
+
+If all goes well and your AI doesn't immediately induce schizobipolar,
+you should get a markdown formatted output of your conversation history.
+
+This output will have context, a chained (reverse timeline) 
+or listed history, and you can save it however you want to to paste later.
+
+An example of using this would be to avoid logging into bing, and I will be
+experimenting doing just that.
+
+# Bing Specifics
+
+Not logging into bing, you should keep these things in mind.
+
+1) To stay logged out, remember you have 8 interactions with the AI before
+you need to compile.
+
+2) To load a history in a new chat, copy the script, then hit shift enter 2X,
+and paste in your compiled chat history that you got as an output earlier.
+
+3) If you use 9 messages while logged out, you can kiss !!compile goodbye as
+an option.
+
+Follow these rules with this script, and you've got it made.
+
+GL HF Gamer
 
 ---
 
